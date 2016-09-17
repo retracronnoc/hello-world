@@ -6,3 +6,5 @@ Just some sample text
 
 
 blah blah blah
+
+BLAH = 5
